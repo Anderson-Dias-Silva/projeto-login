@@ -67,3 +67,15 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 0.8em;
 }
+
+.material-symbols-outlined {
+    vertical-align: middle;
+}
+
+#ilogin, #isenha {
+    font-size: 0.8em;
+}
+
+#entrar {
+    font-size: medium;
+}
